@@ -1,0 +1,22 @@
+{
+  "id": "marko-plus",
+  "name": "Marko Plus",
+  "description": "Managed-workspace Markdown application in the Plus family.",
+  "component_kind": "extension",
+  "extensions": [],
+  "portable_command": [
+    "main.py"
+  ],
+  "icon": "marko_plus/assets/icons/markopad.png",
+  "version": "0.4.17",
+  "publisher": "brunonlinespace",
+  "repository": "https://github.com/brunonlinespace/marko-plus",
+  "desktop_id": "marko-plus",
+  "tagline": "Friendly. Fast. Focused.",
+  "publisher_id": "brunonlinespace",
+  "capabilities": {
+    "routing": false,
+    "open": false,
+    "create": false
+  }
+}
