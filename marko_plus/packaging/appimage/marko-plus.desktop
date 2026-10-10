@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Marko Plus
+GenericName=Markdown Workspace Editor
+Comment=Workspace-scale Markdown editing with source and preview views
+Exec=marko-plus %f
+Icon=marko-plus
+Terminal=false
+Categories=Office;TextEditor;Utility;
+Keywords=Markdown;Editor;Notes;Workspace;
+MimeType=text/markdown;
+StartupNotify=true
+StartupWMClass=marko-plus
+X-AppImage-Version=0.4.17

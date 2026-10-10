@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<component type="desktop-application">
+  <id>io.github.brunonlinespace.marko_plus</id>
+  <name>Marko Plus</name>
+  <summary>Workspace-scale Markdown editor</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <description>
+    <p>
+      Marko Plus discovers, edits, previews, and organizes Markdown documents
+      across registered workspaces.
+    </p>
+    <p>
+      It combines Markopad source editing and preview with folder dashboards,
+      drag-and-drop organization, and asynchronous scanning for large workspaces.
+    </p>
+  </description>
+  <launchable type="desktop-id">marko-plus.desktop</launchable>
+  <developer id="io.github.brunonlinespace">
+    <name>Bruno Machado</name>
+  </developer>
+  <url type="homepage">https://github.com/brunonlinespace/marko-plus</url>
+  <url type="bugtracker">https://github.com/brunonlinespace/marko-plus/issues</url>
+  <provides>
+    <binary>marko-plus</binary>
+    <mediatype>text/markdown</mediatype>
+  </provides>
+  <releases>
+    <release version="0.4.17" date="2026-10-10">
+      <description>
+        <p>Newly created workspace documents now open in the user's last editable Source or Source + Preview layout, while Preview Only remains valid for ordinary document opening.</p>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>
