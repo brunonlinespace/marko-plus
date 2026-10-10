@@ -1,0 +1,9 @@
+{
+  "name": "Marko Plus",
+  "id": "marko-plus",
+  "version": "0.4.17",
+  "publisher_id": "brunonlinespace",
+  "desktop_id": "marko-plus",
+  "repository": "https://github.com/brunonlinespace/marko-plus",
+  "tagline": "Friendly. Fast. Focused."
+}
