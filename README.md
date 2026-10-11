@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# MawnPagho Plus
+# MawnSpaco
 
 **Friendly. Fast. Focused.**
 
