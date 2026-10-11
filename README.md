@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# MawnSpaco
+# MawnSpace
 
 **Friendly. Fast. Focused.**
 
