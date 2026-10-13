@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# MepyNamu
+# MuykoDesk
 
 **Friendly. Fast. Focused.**
 
