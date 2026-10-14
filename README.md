@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# MuykoDesk
+# MwpynDesk
 
 **Friendly. Fast. Focused.**
 
