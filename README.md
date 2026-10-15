@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# MwpynDesk
+# MaqaronyDesk
 
 **Friendly. Fast. Focused.**
 
